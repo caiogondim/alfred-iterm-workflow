@@ -7,6 +7,10 @@ facilis nesciunt magnam dolorem neque rem sit ea quaerat quidem? Impedit minus
 natus expedita voluptatem praesentium ad molestias? Alias, maxime!
 
 
+## Credits
+Icon by [Austin Anrews](http://thenounproject.com/Templarian/)
+
+
 ## License
 The MIT License (MIT)
 
