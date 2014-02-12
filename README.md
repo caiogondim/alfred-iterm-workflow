@@ -11,7 +11,13 @@ This workflow is only for [Alfred.app](http://www.alfredapp.com/)
 
 To download this workflow, click
 [here](https://github.com/caiogondim/alfred-iterm-workflow/raw/master/iTerm.alfredworkflow).
+Below you can see a list of commands supported.
 
+
+## New window
+
+<img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/new-window.png" alt="Alfred iTerm workflow new window command" />
+Opens up a new iTerm window.
 
 ## Credits
 Icon by [Austin Anrews](http://thenounproject.com/Templarian/)
