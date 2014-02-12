@@ -2,9 +2,15 @@
 
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/logo.png" alt="Alfred iTerm workflow" align="right" width="200px" />
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, culpa,
-facilis nesciunt magnam dolorem neque rem sit ea quaerat quidem? Impedit minus
-natus expedita voluptatem praesentium ad molestias? Alias, maxime!
+[iTerm2](http://www.iterm2.com) is a replacement for Terminal and the successor
+to iTerm. Its focus is on performance, internationalization, and supporting
+innovative features that make your life better.
+
+This workflow is only for [Alfred.app](http://www.alfredapp.com/)
+[Powerpack](https://buy.alfredapp.com/) users.
+
+To download this workflow, click
+[here](https://github.com/caiogondim/alfred-iterm-workflow/raw/master/iTerm.alfredworkflow).
 
 
 ## Credits
