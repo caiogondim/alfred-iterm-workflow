@@ -7,9 +7,7 @@ to iTerm. Its focus is on performance, internationalization, and supporting
 innovative features that make your life better.
 
 This workflow is only for [Alfred.app](http://www.alfredapp.com/)
-[Powerpack](https://buy.alfredapp.com/) users.
-
-To download this workflow, click
+[Powerpack](https://buy.alfredapp.com/) users. To download it, click
 [here](https://github.com/caiogondim/alfred-iterm-workflow/raw/master/iTerm.alfredworkflow).
 Below you can see a list of commands supported.
 
