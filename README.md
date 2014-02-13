@@ -18,6 +18,12 @@ Below you can see a list of commands supported.
 Opens up a new iTerm window.
 
 
+## Clear
+
+<img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/clear.png" alt="Alfred iTerm workflow clear buffer" />
+Clear current session's buffer.
+
+
 ## Split horizontally
 
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/split-horizontally.png" alt="Alfred iTerm workflow split horizontally" />
