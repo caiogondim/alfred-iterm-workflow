@@ -24,6 +24,12 @@ Opens up a new iTerm window.
 Splits horizontally the current tab.
 
 
+## Split vertically
+
+<img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/split-vertically.png" alt="Alfred iTerm workflow split vertically" />
+Splits vertically the current tab.
+
+
 ## Credits
 - Icon by [Austin Anrews](http://thenounproject.com/Templarian/)
 - [Alfred Feline theme](https://github.com/caiogondim/alfred-feline-theme)
