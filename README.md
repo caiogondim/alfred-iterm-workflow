@@ -25,7 +25,8 @@ Splits horizontally the current tab.
 
 
 ## Credits
-Icon by [Austin Anrews](http://thenounproject.com/Templarian/)
+- Icon by [Austin Anrews](http://thenounproject.com/Templarian/)
+- [Alfred Feline theme](https://github.com/caiogondim/alfred-feline-theme)
 
 
 ## License
