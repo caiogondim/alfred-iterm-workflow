@@ -21,13 +21,15 @@ Opens up a new iTerm window.
 ## Split horizontally
 
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/split-horizontally.png" alt="Alfred iTerm workflow split horizontally" />
-Splits horizontally the current tab.
+Splits horizontally the current tab, as you can see in the screenshot below.
+<img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/iterm-splited-horizontally.png" alt="iTerm splited horizontally" />
 
 
 ## Split vertically
 
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/split-vertically.png" alt="Alfred iTerm workflow split vertically" />
-Splits vertically the current tab.
+Splits vertically the current tab, as you can see in the screenshot below.
+<img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/iterm-splited-vertically.png" alt="iTerm splited vertically" />
 
 
 ## Credits
