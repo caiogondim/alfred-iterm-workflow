@@ -41,7 +41,7 @@ Splits vertically the current tab, as you can see in the screenshot below.
 ## Credits
 - Icon by [Austin Anrews](http://thenounproject.com/Templarian/)
 - [Alfred Feline theme](https://github.com/caiogondim/alfred-feline-theme)
-
+- [Bullet Train ZSH theme](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)
 
 ## License
 The MIT License (MIT)
