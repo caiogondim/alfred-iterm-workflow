@@ -15,28 +15,33 @@ Below you can see a list of commands supported.
 ## New window
 
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/new-window.png" alt="Alfred iTerm workflow new window command" />
+
 Opens up a new iTerm window.
 
 
 ## Clear
 
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/clear.png" alt="Alfred iTerm workflow clear buffer" />
+
 Clear current session's buffer.
 
 
 ## Split horizontally
 
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/split-horizontally.png" alt="Alfred iTerm workflow split horizontally" />
+
 Splits horizontally the current tab, as you can see in the screenshot below.
+
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/iterm-splited-horizontally.png" alt="iTerm splited horizontally" />
 
 
 ## Split vertically
 
 <img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/split-vertically.png" alt="Alfred iTerm workflow split vertically" />
-Splits vertically the current tab, as you can see in the screenshot below.
-<img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/iterm-splited-vertically.png" alt="iTerm splited vertically" />
 
+Splits vertically the current tab, as you can see in the screenshot below.
+
+<img src="https://raw.github.com/caiogondim/alfred-iterm-workflow/master/img/iterm-splited-vertically.png" alt="iTerm splited vertically" />
 
 ## Credits
 - Icon by [Austin Anrews](http://thenounproject.com/Templarian/)
